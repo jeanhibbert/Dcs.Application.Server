@@ -11,6 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dcs.Application.Shared", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dcs.WebApplication", "Bespoke.Web\Bespoke.Web\Dcs.WebApplication.csproj", "{1B87A84C-B6C4-495D-B109-4203A3083AA1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinqPad", "LinqPad", "{692E9823-7627-4602-81D5-2E2DA131246D}"
+	ProjectSection(SolutionItems) = preProject
+		LinqPad\RxFun.linq = LinqPad\RxFun.linq
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
