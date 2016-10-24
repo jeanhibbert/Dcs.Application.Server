@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dcs.Application.Client", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dcs.Application.Shared", "Dcs.Application.Shared\Dcs.Application.Shared.csproj", "{2A715666-21A8-445B-BCBF-3B3E241B3D0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bespoke.Web", "Bespoke.Web\Bespoke.Web\Bespoke.Web.csproj", "{1B87A84C-B6C4-495D-B109-4203A3083AA1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dcs.WebApplication", "Bespoke.Web\Bespoke.Web\Dcs.WebApplication.csproj", "{1B87A84C-B6C4-495D-B109-4203A3083AA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
