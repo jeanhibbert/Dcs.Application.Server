@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-using Dcs.Application.Server;
+﻿using Dcs.Application.Server;
 
 using Microsoft.Owin;
 
@@ -12,15 +6,10 @@ using Microsoft.Owin;
 
 namespace Dcs.Application.Server
 {
-    using System.Threading;
 
     using Autofac;
 
     using Dcs.Application.Server.Pricing;
-
-
-    using Microsoft.Owin;
-
 
     public partial class App
     {

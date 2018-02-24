@@ -27,6 +27,9 @@ namespace Dcs.Application.Server.Pricing
                     {
                         QuoteId = x,
                         Ask = new Random().Next(0, 10),
+                        Bid = new Random().Next(0, 8),
+                        Mid = new Random().Next(0, 6),
+                        ValueDate = DateTime.UtcNow,
                         Symbol = "USDGBP"
                     };
                     this._pricePublisher.Publish(price);

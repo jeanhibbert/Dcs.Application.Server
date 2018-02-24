@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Dcs.Application.Server
+﻿namespace Dcs.Application.Server
 {
-    using Dcs.Application.Server.Pricing;
     using Dcs.Application.Server.Transport;
 
     using Microsoft.AspNet.SignalR;
